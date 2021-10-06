@@ -1,4 +1,10 @@
-pired
-pigreen
-piyellow
-piblue
+[all]
+192.168.178.135
+192.168.178.136
+192.168.178.137
+192.168.178.138
+
+[all:vars]
+ansible_user=ubuntu
+ansible_ssh_pass=IeBh,dsifE.21
+
